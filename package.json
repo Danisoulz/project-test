@@ -1,0 +1,11 @@
+{
+  "name": "app-teste",
+  "version": "1.0.0",
+  "description": "teste ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dani",
+  "license": "ISC"
+}
