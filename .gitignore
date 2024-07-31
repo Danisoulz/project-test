@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+#env
+.env.dev
+
+# Dependency directory
+node_modules
+
+# Trash
+.idea
+.vscode
+
+#lint
+.eslintcache
+
+# Screenshots
+tests/e2e/errorshots
+
+# Dynamically processed files
+reports
+coverage
+build
+i18n
+package-lock.json
